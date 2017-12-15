@@ -1,9 +1,40 @@
 baseurl = "/"
+title = "LadyCoder"
 languageCode = "en-us"
-languageLang = "en"
-title = "My new Victor-Hugo site"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+[Author] # Used in authorbox
+    name = "Susan Wands"
+    bio = "Full-Stack Developer / UX Designer / Speaker "
+    avatar = "img/avatar.png"
+
+[Params]
+    subtitle = "... a shout out to all the lady's who code" # Subtitle of your site. Used in site header
+    description = "LadyCoder is a blog about and for women in technology, technical topics, soft skills and general encouragement for women in the tech field." # Description of your site. Used in meta description
+    opengraph = true # Enable OpenGraph if true
+    readmore = true # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true # Show authorbox at bottom of pages if true
+    post_navigation = true # Show post navigation at bottom of pages if true
+    postSections = ["post"] # the section pages to show on home page and the "Recent articles" widget
+    #postSections = ["blog", "news"] # alternative that shows more than one section's pages
+    #dateformat = "2006-01-02" # change the format of dates
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent articles" widget
+    recent_articles_num = 5 # Set the number of articles in the "Recent articles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+    # Enable "Social" widget, if any of "social_*" set a value
+    social_facebook = "LadyCoder"
+    social_twitter = "_LadyCoder"
+    social_linkedin = "susanwands"
+    social_github = "susanwands"
+    social_email = "ladycoder@outlook.com"
+    # social_google_plus = "profileid"
