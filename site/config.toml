@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://mystifying-lamport-bea177.netlify.com/"
 title = "LadyCoder"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
