@@ -13,7 +13,7 @@ categories = [
     "Development",
     "golang",
 ]
-menu = "main"
+menu = ""
 thumbnail = "img/placeholder.png"
 +++
 

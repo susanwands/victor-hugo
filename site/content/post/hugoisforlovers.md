@@ -12,7 +12,7 @@ categories = [
     "Development",
     "golang",
 ]
-menu = "main"
+menu = ""
 +++
 
 ## Step 1. Install Hugo

@@ -1,18 +1,18 @@
-baseurl = "https://mystifying-lamport-bea177.netlify.com/"
+baseurl = "https://ladycoder.com/"
 title = "LadyCoder"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
-disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+disqusShortname = "ladycoder" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-111352028-1" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
     name = "Susan Wands"
     bio = "Full-Stack Developer / UX Designer / Speaker "
-    avatar = "img/avatar.png"
+    avatar = "img/me.jpg"
 
 [Params]
-    subtitle = "... a shout out to all the lady's who code" # Subtitle of your site. Used in site header
+    subtitle = "... a shout out to all the ladies who code" # Subtitle of your site. Used in site header
     description = "LadyCoder is a blog about and for women in technology, technical topics, soft skills and general encouragement for women in the tech field." # Description of your site. Used in meta description
     opengraph = true # Enable OpenGraph if true
     readmore = true # Show "Read more" button in list if true
@@ -24,7 +24,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     #dateformat = "2006-01-02" # change the format of dates
 
 [Params.widgets]
-    search = true # Enable "Search" widget
+    search = false # Enable "Search" widget
     recent_articles = true # Enable "Recent articles" widget
     recent_articles_num = 5 # Set the number of articles in the "Recent articles" widget
     categories = true # Enable "Categories" widget
@@ -36,5 +36,5 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     social_twitter = "_LadyCoder"
     social_linkedin = "susanwands"
     social_github = "susanwands"
-    social_email = "ladycoder@outlook.com"
+    social_email = ""
     # social_google_plus = "profileid"
