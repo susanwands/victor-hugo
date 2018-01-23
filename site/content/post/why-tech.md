@@ -5,7 +5,7 @@ linktitle: Why Tech
 next: /post/tech-needs-women
 prev: /post/where-to-start
 title: Why Tech
-weight: 10
+weight: 
 ---
 
 

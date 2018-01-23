@@ -4,7 +4,7 @@ linktitle: Are you cut out for this?
 
 prev: /tutorials/mathjax
 title: Are you cut out for this?
-weight: 10
+weight: 
 ---
 
 Women are under-represented in tech.  The number of women software developers, coders, programmers, etc. is really low compared to the workforce as a whole.  We all know this.  We all have heard this, but the question is why?
