@@ -7,7 +7,7 @@ thumbnail = "img/person-woman-apple-hotel.jpg"
 
 ## About LadyCoder
 
-So I don't know if you have heard or not, but we have a little bit of an imbalance in the tech community regarding the number of women and minorities represented in the workplace. It can be a isolating and disconcerting at times to be the "only one" on the team, in the department or at the event. 
+So I don't know if you have heard or not, but we have a little bit of an imbalance in the tech community regarding the number of women and minorities represented in the workplace. It can be isolating and disconcerting at times to be the "only one" on the team, in the department or at the event. 
 
 I am typically a confident go-getter. I figure, if I can find it a bit intimidating at times, it might really be an issue.
 
@@ -22,7 +22,7 @@ Check out the [LadyCoder Store](https://www.zazzle.com/ladycoder) for some lady 
 
 Connect on [Facebook](https://www.facebook.com/LadyCoder) for LadyCoder posts.
 
-Follow on [Twitter](https://twitter.com/_LadyCoder) for timely techie tweets.
+Follow on [Twitter](https://twitter.com/_LadyCoder) for timely tech tweets.
 
 Find me on [LinkedIn](https://www.linkedin.com/in/susanwands) and lets network.
 
@@ -34,12 +34,13 @@ If you are in the Raleigh - Durham, NC area you should check out the [Women In T
 
 Women in Tech Allies is a group to advocate for women in tech careers through networking, tech talks, mentorship, etc. We look for opportunities to support our current peers in tech, women attempting to transition into tech from other backgrounds, as well as helping our youth grow into future tech leaders.
 
-I founded it so I kinda love it : ) If you are in the area, come check it out!
+I founded it so I kinda love it : ) 
+
+If you are in the area, come check it out!
 
 Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/_LadyCoder).
 
 Keep on coding!
 
-Susan 
+Susan ... @LadyCoder
 
-Thanks for reading!
