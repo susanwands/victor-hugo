@@ -1,4 +1,4 @@
-/*** CSS Reset based on http://meyerweb.com/eric/tools/css/reset/ v2.0 ***/
+﻿/*** CSS Reset based on http://meyerweb.com/eric/tools/css/reset/ v2.0 ***/
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
 blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img,
 ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center,
@@ -1205,4 +1205,50 @@ textarea {
 	.list__excerpt {
 		display: none;
 	}
+}
+
+
+.skills-list{
+    list-style: none;
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    display: flex;   
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    align-items:center;
+    align-content: center;
+    
+}
+.skills-list li {
+    font-size: 2rem;    
+    margin-left: 1rem;
+    flex: 1;
+    text-align: center;
+    transition: .3s;   
+       
+}
+
+.skills-list li:nth-of-type(3n+2){
+    font-size: 3rem;  
+}
+
+.skills-list li:nth-of-type(2n+3){
+    color:#19A58C 
+}
+
+.skills-list li:nth-of-type(4n+1){
+    font-style: italic;
+}
+
+.skills-list li:hover {
+    transition: .5s;
+    font-size:3em;   
+    flex-grow: 2;
+    cursor: pointer;
+}
+.skills-list li:nth-of-type(3n+2):hover{
+    font-size:3.5em;   
+    flex-grow: 3; 
 }
