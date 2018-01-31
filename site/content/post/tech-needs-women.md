@@ -56,6 +56,6 @@ Women need to jump in and add their perspective to the industry. You are the mis
 
 Get in there lady ... the world needs you. 
 
-Keep on coding!
+## Keep on coding!
 
-Susan ... @LadyCoder
+## Susan ... @LadyCoder

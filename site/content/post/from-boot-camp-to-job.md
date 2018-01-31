@@ -85,9 +85,9 @@ Yes, yes, and absolutely!
 
 It can be done, so you can do it.
 
-Keep on coding!
+## Keep on coding!
 
-Susan ... @LadyCoder
+## Susan ... @LadyCoder
 
 
 

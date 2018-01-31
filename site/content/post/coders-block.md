@@ -96,6 +96,6 @@ I’m honestly not sure if that little quiver in your stomach ever goes away.
 
 Eventually, when you have pushed through and created something new enough times, you might start to recognize that feeling as the start of something awesome. It just might become your favorite feeling.
 
-Keep on coding!
+## Keep on coding!
 
-Susan ... @LadyCoder
+## Susan ... @LadyCoder

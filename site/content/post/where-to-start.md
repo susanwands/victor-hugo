@@ -46,6 +46,6 @@ Free Code Camp, Treehouse and more have awesome communities of tech folks in the
 
 If you are trying to make a change don't give up.  It may not be a cake walk or super easy, but few things that are that easy are ever worth doing.
 
-Keep on coding!
+## Keep on coding!
 
-Susan ... @LadyCoder
+## Susan ... @LadyCoder

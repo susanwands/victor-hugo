@@ -1,8 +1,84 @@
 +++
 title = "Portfolio"
-date = "2018-1-29"
-menu = "main"
-thumbnail = "img/me.jpg"
+date = "2017-12-14"
+menu = ""
 +++
 
-  Hello there
+## Hello World
+<div class="row">
+    <div class="col-md-12">
+
+        <div id="skills">
+
+            <ul class="skills-list">
+                <li class="skill-item">
+                    AngularJS
+                </li>
+                <li class="skill-item">
+                    HTML5
+                </li>
+
+                <li class="skill-item">
+                    JavaScript
+                </li>
+                <li class="skill-item">
+                    C# / .NET
+                </li>
+                <li class="skill-item">
+                    ReactJS
+                </li>
+                <li class="skill-item">
+                    Azure
+                </li>
+                <li class="skill-item">
+                    LinQ
+                </li>
+                <li class="skill-item">
+                    CSS3
+                </li>
+                <li class="skill-item">
+                    Entity Framework
+                </li>
+                <li class="skill-item">
+                    JQuery
+                </li>
+                <li class="skill-item">
+                    Bootstrap
+                </li>
+                <li class="skill-item">
+                    Razor
+                </li>
+                <li class="skill-item">
+                    Agile
+                </li>
+                <li class="skill-item">
+                    Web API
+                </li>
+                <li class="skill-item">
+                    Xamarin
+                </li>
+                <li class="skill-item">
+                    TFS
+                </li>
+                <li class="skill-item">
+                    SQL
+                </li>
+                <li class="skill-item">
+                    Cosmos DB
+                </li>
+
+                <li class="skill-item">
+                    NodeJS
+                </li>
+                <li class="skill-item">
+                    Git
+                </li>
+                <li class="skill-item">
+                    Scrum
+                </li>
+
+            </ul>
+
+        </div>
+
+ 

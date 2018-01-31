@@ -102,6 +102,6 @@ It was so worth it.
 
 If you need some advice on how to make the switch and get your foot in the door, ask me. I would be glad to help.
 
-Keep on coding!
+## Keep on coding!
 
-Susan ... @LadyCoder
+## Susan ... @LadyCoder

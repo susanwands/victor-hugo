@@ -36,11 +36,11 @@ Women in Tech Allies is a group to advocate for women in tech careers through ne
 
 I founded it so I kinda love it : ) 
 
-If you are in the area, come check it out!
+If you're in the area, come check it out!
 
 Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/_LadyCoder).
 
-Keep on coding!
+## Keep on coding!
 
-Susan ... @LadyCoder
+## Susan ... @LadyCoder
 

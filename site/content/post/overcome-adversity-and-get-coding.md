@@ -135,6 +135,6 @@ Don’t be that asshole and certainly don’t give a crap what that asshole is l
 
 Just flip em off and keep striving for your awesome.
 
-Keep on coding!
+## Keep on coding!
 
-Susan ... @LadyCoder
+## Susan ... @LadyCoder
